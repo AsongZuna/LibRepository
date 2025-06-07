@@ -15,4 +15,4 @@
 -艾诺（文档建立中）
 -艾伦（文档建立中）
 
-艾诺与艾伦的关系[..](5.vs艾伦.txt)#Bk #Bl #Ht #Mr
+[艾诺与艾伦的关系](https://www.pixiv.net/novel/show.php?id=24989056)[..](5.vs艾伦.txt)#Bk #Bl #Ht #Mr

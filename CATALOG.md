@@ -1,6 +1,6 @@
 # 目录
 *这是总目录*
-- 设定
+- [设定集](./enactment/enactment.md)
 1. [法师篇-艾诺背景](./anoneBg/anoneBg.md)
 1. 逆鳞篇-斑背景
 1. 请支付，绝情的金币-主线

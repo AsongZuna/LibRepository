@@ -18,5 +18,22 @@
 
 问询与反问讯教学
 - [晋\&斑-序章.md](13.晋&斑-序章.md)
-- [晋x斑-EE3](https://www.pixiv.net/novel/show.php?id=24990330)[..](14.晋x斑-EE3.txt)#Bk #Ht #Mr #Se
-- [晋x斑-教学](https://www.pixiv.net/novel/show.php?id=24990516)[..](15.晋x斑2-教学.txt)#Bk #Ht #Mr #Se
+- [晋x斑-EE3](https://archiveofourown.org/works/66765853/chapters/172281910)[..](14.晋x斑-EE3.txt)#Bk #Ht #Mr #Se
+- [晋x斑-教学](https://archiveofourown.org/works/66765853/chapters/172286332)[..](15.晋x斑2-教学.txt)#Bk #Ht #Mr #Se
+- [晋x斑-仪器](https://archiveofourown.org/works/66765853/chapters/172427386)[..](16.晋x斑3-仪器.txt)#Bk #Ht #Mr #Se
+- [晋x斑-彩蛋](https://archiveofourown.org/works/66765853/chapters/172623763)[..](17.晋x斑4-彩蛋.txt)#Ht #Mr #Se #Ex
+
+成人礼＆少年营
+- 擅闯EE3
+- 社会化训练
+- [猫与园丁](todo)[..](26.猫与园丁.txt)
+- [猫与园丁-彩蛋](todo)[..](27.沉痛哀悼合欢-766同植壮烈.txt)
+- 夜访
+- 少年营
+- 检讨
+
+战地医院
+- [序章-斑的回忆](todo)[..](40.斑的回忆好几则.txt)
+- [战地医院dummy](todo)[..](41.战地医院.txt)
+
+三日雾

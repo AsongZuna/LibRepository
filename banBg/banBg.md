@@ -24,7 +24,9 @@
 - [晋x斑-彩蛋](https://archiveofourown.org/works/66765853/chapters/172623763)[..](17.晋x斑4-彩蛋.txt)#Ht #Mr #Se #Ex
 
 成人礼＆少年营
-- 擅闯EE3
+- [擅闯EE3](todo)[..](18.晋x斑5-教育.md)#Ht #Bk #Ex #Mr
+- [训练场](todo)[..](19.晋x斑5.1-训练场.md)#Ht #Mr
+- [雾中冰](todo)[..](20.晋x斑5.2-雾中冰.md)#Ht #Ex #Mr
 - 社会化训练
 - [猫与园丁](todo)[..](26.猫与园丁.txt)
 - [猫与园丁-彩蛋](todo)[..](27.沉痛哀悼合欢-766同植壮烈.txt)
